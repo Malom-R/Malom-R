@@ -50,7 +50,6 @@ I like understanding how infrastructures really work so I can monitor them, dete
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,git" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
 
 ### 🔐 Offensive tools (to think like the attacker)
@@ -77,7 +76,7 @@ A virtualized SOC. Zeek, Filebeat and Winlogbeat ship network, Linux and Windows
 ### 🎮 [WinSU](https://github.com/Malom-R/WinSU)
 A full-screen Windows game launcher designed for controllers. Built in **C# / Avalonia UI**, it uses the SteamGridDB API to fetch artwork dynamically.
 
-### 🦔 Project Junio(https://mb.srb2.org/addons/srb2-project-junio.8429/)
+### 🦔 [Project Junio](https://mb.srb2.org/addons/srb2-project-junio.8429/)
 A complete gameplay overhaul mod for *Sonic Robo Blast 2*, scripted in **Lua** and published on the SRB2 Message Board.
 
 ## 📜 Certifications & Learning Path
@@ -91,6 +90,6 @@ A complete gameplay overhaul mod for *Sonic Robo Blast 2*, scripted in **Lua** a
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:TON_EMAIL">
+  <a href="mailto:malick06171@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
