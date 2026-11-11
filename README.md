@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Blue Team · Network Security · Active Directory" width="100%">
 </p>
 
-# Hi there 👋 I'm TON_PRENOM
+# Hi there 👋 I'm Maodo Ndiaye
 
 🛡️ Cybersecurity Master's student at **JUNIA ISEN Lille**, focused on **Blue Team operations, network security and Active Directory**.
 
@@ -19,8 +19,6 @@ I like understanding how infrastructures really work so I can monitor them, dete
 
 ## 🚀 Currently Working On
 
-- 🔎 Extending my SOC homelab (Zeek + Elastic) with Sigma rules mapped to MITRE ATT&CK
-- 🏢 Building an Active Directory lab to detect Kerberoasting, password spraying and lateral movement
 - 🌐 Preparing **Cisco CCNA (200-301)**
 - 🛡️ Preparing **TryHackMe SOC Analyst Level 1 (SAL1)**
 
